@@ -49,8 +49,8 @@ block27 = new BoxClass(1120, 272, 50, 50)
 block28 = new BoxClass(1080, 272, 50, 50)
 block29 = new BoxClass(1160, 272, 50, 50)
 block30 = new BoxClass(1120, 119, 50, 50)
-polygon = new Polygon(400, 400, 40, 3)
-slingshot = new Slingshot(polygon.body,{x:200,y:50},10,0.04);
+polygon = new Polygon(100, 400, 40, 3)
+slingshot = new Slingshot(polygon.body,{x:200,y:400},10,0.04);
 
 }
 
